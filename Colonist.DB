@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "68c7fc491913a87be6f70d48"
+  },
+  "MarsColonizationID": "C001",
+  "FirstName": "John",
+  "MiddleName": "A",
+  "Surname": "Smith",
+  "DateOfBirth": "1988-05-10",
+  "Qualification": "Engineer",
+  "Gender": "M",
+  "ContactNo": "+123456789",
+  "CivilStatus": "Married",
+  "NumberOfFamilyMembers": 2,
+  "EarthAddress": "123 Main Street, New York",
+  "ColonyLotNumber": "H001"
+},
+{
+  "_id": {
+    "$oid": "68c7fc5b1913a87be6f70d4a"
+  },
+  "MarsColonizationID": "C002",
+  "FirstName": "Emma",
+  "Surname": "Brown",
+  "DateOfBirth": "1992-11-21",
+  "Qualification": "Doctor",
+  "Gender": "F",
+  "ContactNo": "+987654321",
+  "CivilStatus": "Single",
+  "NumberOfFamilyMembers": 0,
+  "EarthAddress": "45 Green Road, London",
+  "ColonyLotNumber": "H002"
+}]
